@@ -51,6 +51,10 @@ submitted on line.
        x_w-y_w plane by light blue.  
    (3) then repeat the shade computation for the rest of the cubes.   
 
+   Note for the requirement of 3D GE with 2 LPC1769 processors, this part 
+   carries extra 5 bonus points. One of the LPC1769 will be acting as the 
+   processing engine. 
+
 4. Submit project report together with
    (1) exported project (source code) subject to testing and verification, 
        including compilation and build, actual LPC1769 board testing
